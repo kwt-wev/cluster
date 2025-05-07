@@ -1,0 +1,12 @@
+{
+    "name": "cluster/cluster-bundle",
+    "type": "symfony-bundle",
+    "autoload": {
+      "psr-4": {
+        "BMS\\clusterBundle\\": "src/"
+      }
+    },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+    "require": {}
+}
