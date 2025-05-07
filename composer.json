@@ -1,0 +1,12 @@
+{
+    "name": "kwt-wev/cluster-bundle",
+    "type": "symfony-bundle",
+    "autoload": {
+      "psr-4": {
+        "kwt-wev\\clusterBundle\\": "src/"
+      }
+    },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+    "require": {}
+}
